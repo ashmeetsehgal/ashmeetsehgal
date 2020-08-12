@@ -5,8 +5,9 @@
 -->
 Here are some ideas to get you started:
 
+- 💻 I'm currently working for Walmart Labs.
 - 🔭 I’m currently working on my blogs, social media bots. https://ashmeetsehgal.com
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Typescript, GraphQL, Deno, Golang, docker. 
 - 👯 I’m looking to collaborate on node and react projects
 - 💬 Ask me about life doubts
 - 📫 How to reach me: https://ashmeetsehgal.com/contact
