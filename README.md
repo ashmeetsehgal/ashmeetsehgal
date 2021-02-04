@@ -10,6 +10,5 @@
 - 👯 I’m looking to collaborate on node and react projects
 - 💬 Ask me about life doubts
 - 📫 How to reach me: https://ashmeetsehgal.com/contact
-- 😄 Pronouns: ash or A.S.
 - ⚡ Fun fact: I used to be a backpacker but then someone ate a bat. 
 
